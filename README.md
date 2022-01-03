@@ -6,8 +6,8 @@
 ### Hi there 👋
 
 ## Interests
-android application      
-java/kotlin android studio
+& Android application      
+& java/kotlin android studio
 
 ## Career
 
