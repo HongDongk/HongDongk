@@ -5,6 +5,10 @@
 
 ### Hi there 👋
 
+## Interests
+# android application 
+# java/kotlin android studio
+
 ## Career
 
 |     Type    |        Date       |                       Contents                      |              Organization             |
