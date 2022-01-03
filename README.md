@@ -7,6 +7,8 @@
 
 ### Hi there 👋
 
+## Career
+
 |     Type    |        Date       |                       Contents                      |              Organization             |
 |:-----------:|:-----------------:|:---------------------------------------------------:|:-------------------------------------:|
 |   Education |  2017.3 ~ 2023.2  | Department of Information communication engineering | Hankuk University of  Froeign Studies |
