@@ -7,7 +7,11 @@
 
 ### Hi there 👋
 
-#F7DF1E
+|     Type    |        Date       |                       Contents                      |              Organization             |
+|:-----------:|:-----------------:|:---------------------------------------------------:|:-------------------------------------:|
+|   Education |  2017.3 ~ 2023.2  | Department of Information communication engineering | Hankuk University of  Froeign Studies |
+|  Employment | 2022.1   ~ 2022.3 |                Block Chain/AI project               |             CityLabs.co.kr            |
+|             |                   |                                                     |                                       |
 
 **HongDongk/HongDongk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
