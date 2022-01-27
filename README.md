@@ -6,7 +6,8 @@
 ### Hi there 👋
 
 ## Interests
-& Android application      
+& HTML/CSS/JS
+& Frontend
 & java/kotlin android studio
 
 ## Career
