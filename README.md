@@ -8,7 +8,7 @@
 ## Interests
 & HTML/CSS/JS
 & Frontend
-& java/kotlin android studio
+& Java/Kotlin android studio
 
 ## Career
 
