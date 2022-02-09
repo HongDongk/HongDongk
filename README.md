@@ -10,6 +10,9 @@ HTML/CSS/JS
 & Frontend
 & Java/Kotlin android studio
 
+## StudyBlog
+https://blog.naver.com/hongdongk
+
 ## Career
 
 |     Type    |        Date       |                       Contents                      |              Organization             |
