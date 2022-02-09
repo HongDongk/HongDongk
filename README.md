@@ -10,9 +10,6 @@ HTML/CSS/JS
 & Frontend
 & Java/Kotlin android studio
 
-## StudyBlog
-https://blog.naver.com/hongdongk
-
 ## Career
 
 |     Type    |        Date       |                       Contents                      |              Organization             |
@@ -23,6 +20,9 @@ https://blog.naver.com/hongdongk
 ## Languages
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
+## Blog
+https://blog.naver.com/hongdongk
 
 <!--
 
