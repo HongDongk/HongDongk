@@ -8,14 +8,14 @@
 ## Interests
 HTML/CSS/JS
 & Frontend
-& Java/Kotlin android studio
+& Java/Kotlin Android studio
 
 ## Career
 
 |     Type    |        Date       |                       Contents                      |              Organization             |
 |:-----------:|:-----------------:|:---------------------------------------------------:|:-------------------------------------:|
 |   Education |  2017.3 ~ 2023.2  | Department of Information communication engineering | Hankuk University of  Froeign Studies |
-|  Employment | 2022.1   ~ 2022.3 |                webpage publishing& frontend         |             CityLabs.co.kr            |
+|  Employment | 2022.1   ~ 2022.3 |                Webpage publishing & Frontend        |             CityLabs.co.kr            |
 
 ## Languages
 
