@@ -15,7 +15,7 @@ HTML/CSS/JS
 |     Type    |        Date       |                       Contents                      |              Organization             |
 |:-----------:|:-----------------:|:---------------------------------------------------:|:-------------------------------------:|
 |   Education |  2017.3 ~ 2023.2  | Department of Information communication engineering | Hankuk University of  Froeign Studies |
-|  Employment | 2022.1   ~ 2022.3 |                Webpage publishing & Frontend        |             CityLabs.co.kr            |
+|  Employment | 2022.1   ~ 2022.3 |          Webpage publishing & Frontend(Intern)      |             CityLabs.co.kr            |
 
 ## Languages
 
