@@ -6,9 +6,9 @@
 ### Hi there 👋
 
 ## Interests
-HTML/CSS/JS
+HTML/CSS/JS(React)
 & Frontend
-& Java/Kotlin Android studio
+& Java 
 
 ## Career
 
