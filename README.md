@@ -19,8 +19,9 @@ HTML/CSS/JS(React)
 
 ## Languages
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://usecode.pw/static/7a43084345e3760a8c6e1c7f2510f255/2bef9/1-T1b83o47E1AI0lTpwzHVvA.png">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 
 ## Blog
 https://blog.naver.com/hongdongk
