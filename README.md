@@ -17,7 +17,7 @@ HTML/CSS/JS(React)
 |   Education |  2017.3 ~ 2023.2  | Department of Information communication engineering | Hankuk University of  Froeign Studies |
 |  Employment | 2022.1   ~ 2022.3 |          Web publishing & Frontend(Intern)      |             CityLabs.co.kr            |
 
-## Languages
+## Tech Stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
