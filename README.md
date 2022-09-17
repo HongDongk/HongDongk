@@ -8,7 +8,7 @@
 ## Interests
 HTML/CSS/JS(React)/Typescript
 & Frontend
-& 
+
 
 ## Career
 
