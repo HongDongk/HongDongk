@@ -6,9 +6,9 @@
 ### Hi there 👋
 
 ## Interests
-HTML/CSS/JS(React)
+HTML/CSS/JS(React)/Typescript
 & Frontend
-& Java 
+& 
 
 ## Career
 
