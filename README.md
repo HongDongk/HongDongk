@@ -7,7 +7,7 @@
 
 ## Interests
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongdongk&layout=compact)](https://github.com/hongdongk/github-readme-stats)
-HTML/CSS/JS(React)/Typescript
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongdongk&show_icons=true&theme=radical)
 
 
 ## Career
