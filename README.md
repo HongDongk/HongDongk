@@ -29,6 +29,8 @@ HTML/CSS/JS(React)/Typescript
 ## Blog
 https://blog.naver.com/hongdongk
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongdongk&layout=compact)](https://github.com/hongdongk/github-readme-stats)
+
 <!--
 
 **HongDongk/HongDongk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
