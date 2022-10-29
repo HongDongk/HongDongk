@@ -24,12 +24,11 @@ HTML/CSS/JS(React)/Typescript
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongdongk&layout=compact)](https://github.com/hongdongk/github-readme-stats)
 
 
 ## Blog
 https://blog.naver.com/hongdongk
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongdongk&layout=compact)](https://github.com/hongdongk/github-readme-stats)
 
 <!--
 
