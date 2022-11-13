@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"></a>
 
 ## Blog
-https://blog.naver.com/hongdongk
+https://blog.naver.com/hongdongk https://velog.io/@hongdongk
 
 <!--
 
