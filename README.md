@@ -27,8 +27,8 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"></a>
 
 ## 📝 Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hongdongk)](https://velog.io/@hongdongk) 
 https://blog.naver.com/hongdongk   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Coderduck)](https://velog.io/@hongdongk) 
 
 <!--
 
