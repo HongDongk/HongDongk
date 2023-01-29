@@ -5,12 +5,6 @@
 
 ## 👋 Hi there 👋
 
-## Career
-
-|     Type    |        Date       |                       Contents                      |              Organization             |
-|:-----------:|:-----------------:|:---------------------------------------------------:|:-------------------------------------:|
-|   Education |  2017.3 ~ 2023.2  | Department of Information communication engineering | Hankuk University of  Froeign Studies |
-|  Employment | 2022.1   ~ 2022.3 |          Web publishing & Frontend(Intern)      |             CityLabs.co.kr            |
 
 ## Tech Stack
 
