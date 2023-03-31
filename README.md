@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3>🍀</h3>
-<p>Hi There! I'm a frontEnd developer.</p>
+<p>Hi There! I'm a FrontEnd developer.</p>
 <p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
   
   #
