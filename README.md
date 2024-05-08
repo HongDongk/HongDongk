@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=black&height=300&text=Hello!!🫰&fontSize=90&fontColor=d6ace6&fontAlign=75&fontAlignY=20&desc=EveryOne&descAlignY=40&descAlign=80&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=black&height=300&text=Hello!!✌️&fontSize=90&fontColor=d6ace6&fontAlign=75&fontAlignY=20&desc=EveryOne&descAlignY=40&descAlign=80&rotate=20)
 
 <div align="center">
 <h3>🍀</h3>
